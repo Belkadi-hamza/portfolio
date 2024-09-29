@@ -1,0 +1,7 @@
+/* index.css */
+@import 'tw-elements/css/tw-elements.min.css';
+
+/* Tailwind CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
